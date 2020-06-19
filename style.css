@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Courier New', Courier;
+    color: whitesmoke;
+}
+
+#title {
+        font-family: Garamond;
+        text-align: center;
+        margin: 1em 1em;
+        padding: 1em 1em;
+        border: 0.1em solid whitesmoke;
+        border-radius: 0.6em;
+}
+
+#members {
+    text-align: right;
+    margin: 1em 1em;
+    padding: 1em 0.5em;
+    border: 0.05em solid whitesmoke;
+    border-radius: 0.6em;
+}
+
+#msg{
+    margin: 1em 1em;
+    padding: 1em 1em;
+    font-family:Courier, monospace;
+    text-align: center;
+    font-size: large;
+}
